@@ -6,13 +6,13 @@ using namespace std;
 int main()
 {
     int a, b;
-    cout << "Enter two integer, confirm the input with Enter" << endl;
+    cout << "Enter two integer, confirm the inputs with Enter" << endl;
     cin >> a >> b;
     int c;
     c = a + b;
-    cout <<"The sum of the entered numbers = " << c << endl;
+    cout <<"The sum of the entered numbers =" << c << endl;
     c = a - b;
     cout <<"The difference between the entered numbers =" << c << endl;
     c = a * b;
-    cout << "The product of the entered numbers = " << c << endl;
- }
+    cout << "The division the entered numbers =" << c << endl;
+}
